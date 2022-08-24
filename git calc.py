@@ -21,3 +21,4 @@ while True:
         def mult(a, b):
             return (a * b)
         print(mult(a, b))
+
