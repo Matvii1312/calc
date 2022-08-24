@@ -1,1 +1,1 @@
-privett
+privet
