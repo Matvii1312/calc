@@ -10,15 +10,12 @@ while True:
             return a + b
         print(add(a, b))
 
-
     elif responce == '2':
         def sub(a, b):
-            return (a -b)
+            return a - b
         print(sub(a, b))
-
 
     elif responce == '3':
         def mult(a, b):
-            return (a * b)
+            return a * b
         print(mult(a, b))
-
